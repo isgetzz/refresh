@@ -17,6 +17,9 @@ import com.scwang.refreshlayout.fragment.index.RefreshPractiveFragment;
 import com.scwang.refreshlayout.fragment.index.RefreshStylesFragment;
 import com.scwang.refreshlayout.util.StatusBarUtil;
 
+/***
+ * 主页面
+ */
 public class IndexMainActivity extends AppCompatActivity implements OnNavigationItemSelectedListener {
 
     private enum TabFragment {
